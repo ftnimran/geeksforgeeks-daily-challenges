@@ -11,3 +11,4 @@
 | 7 | stable marriage problem | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | 07-04-26 |
 | 8 | segregate 0s and 1s5106 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | 08-04-26 |
 | 9 | intersection of two sorted arrays ... | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) | 09-04-26 |
+| 10 | sorted subsequence of size 3 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) | 10-04-26 |
