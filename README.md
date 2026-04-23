@@ -24,3 +24,4 @@
 | 20 | dearrangement of balls0918 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) | 20-04-26 |
 | 21 | two water jug problem3402 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) | 21-04-26 |
 | 22 | mean of range in array2123 | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) | 22-04-26 |
+| 23 | split an array into two equal sum ... | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | 23-04-26 |
