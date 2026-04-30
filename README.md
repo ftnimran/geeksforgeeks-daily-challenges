@@ -31,3 +31,4 @@
 | 27 | smallest window containing 0 1 and... | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | 27-04-26 |
 | 28 | longest repeating character replac... | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | 28-04-26 |
 | 29 | minimum swaps required to group al... | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1) | 29-04-26 |
+| 30 | does array represent heap4345 | easy | JavaScript | Heap | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | 30-04-26 |
