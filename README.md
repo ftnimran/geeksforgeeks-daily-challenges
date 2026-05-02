@@ -33,3 +33,4 @@
 | 29 | minimum swaps required to group al... | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1) | 29-04-26 |
 | 30 | does array represent heap4345 | easy | JavaScript | Heap | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | 30-04-26 |
 | 31 | kth largest element in a stream2220 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1) | 01-05-26 |
+| 32 | find position of set bit3706 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | 02-05-26 |
