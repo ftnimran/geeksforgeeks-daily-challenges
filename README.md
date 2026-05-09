@@ -40,3 +40,4 @@
 | 36 | size of binary tree | basic | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | 06-05-26 |
 | 37 | check if subtree | medium | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/check-if-subtree/1) | 07-05-26 |
 | 38 | remove invalid parentheses | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1) | 08-05-26 |
+| 39 | total number of spanning trees in ... | hard | JavaScript | Graph | [Link](https://www.geeksforgeeks.org/problems/total-number-of-spanning-trees-in-a-graph/1) | 09-05-26 |
