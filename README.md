@@ -46,3 +46,4 @@
 | 42 | range lcm queries3348 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/range-lcm-queries3348/1) | 12-05-26 |
 | 43 | mother vertex | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/mother-vertex/1) | 13-05-26 |
 | 44 | search for subarray | hard | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/search-for-subarray/1) | 14-05-26 |
+| 45 | special keyboard3018 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/special-keyboard3018/1) | 15-05-26 |
