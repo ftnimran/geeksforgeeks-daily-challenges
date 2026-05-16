@@ -47,3 +47,4 @@
 | 43 | mother vertex | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/mother-vertex/1) | 13-05-26 |
 | 44 | search for subarray | hard | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/search-for-subarray/1) | 14-05-26 |
 | 45 | special keyboard3018 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/special-keyboard3018/1) | 15-05-26 |
+| 46 | smallest number subset1220 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1) | 16-05-26 |
