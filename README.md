@@ -50,3 +50,4 @@
 | 46 | smallest number subset1220 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1) | 16-05-26 |
 | 47 | make the array beautiful  170647 | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1) | 17-05-26 |
 | 48 | maximum sum problem2211 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/maximum-sum-problem2211/1) | 18-05-26 |
+| 49 | minimum multiplications to reach end | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | 19-05-26 |
