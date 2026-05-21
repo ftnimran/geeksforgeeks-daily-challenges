@@ -52,3 +52,4 @@
 | 48 | maximum sum problem2211 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/maximum-sum-problem2211/1) | 18-05-26 |
 | 49 | minimum multiplications to reach end | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | 19-05-26 |
 | 50 | equal to product3836 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/equal-to-product3836/1) | 20-05-26 |
+| 51 | check set bits5408 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/check-set-bits5408/1) | 21-05-26 |
