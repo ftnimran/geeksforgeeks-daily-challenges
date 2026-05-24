@@ -55,3 +55,4 @@
 | 51 | check set bits5408 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/check-set-bits5408/1) | 21-05-26 |
 | 52 | 1s surrounded by 0s | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/1s-surrounded-by-0s/1) | 22-05-26 |
 | 53 | transform to sum tree | easy | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1) | 23-05-26 |
+| 54 | last coin in a game of alternates | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | 24-05-26 |
