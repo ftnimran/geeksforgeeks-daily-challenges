@@ -59,3 +59,4 @@
 | 55 | elements in the range2834 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1) | 25-05-26 |
 | 56 | minimum toogles to partition0135 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/minimum-toogles-to-partition0135/1) | 26-05-26 |
 | 57 | wifi range  170647 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/wifi-range--170647/1) | 27-05-26 |
+| 58 | vertical sum | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/vertical-sum/1) | 28-05-26 |
