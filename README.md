@@ -61,3 +61,4 @@
 | 57 | wifi range  170647 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/wifi-range--170647/1) | 27-05-26 |
 | 58 | vertical sum | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/vertical-sum/1) | 28-05-26 |
 | 59 | count digit groupings of a number1520 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/count-digit-groupings-of-a-number1520/1) | 29-05-26 |
+| 60 | replace with xor of adjacent | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/replace-with-xor-of-adjacent/1) | 30-05-26 |
