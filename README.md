@@ -62,3 +62,4 @@
 | 58 | vertical sum | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/vertical-sum/1) | 28-05-26 |
 | 59 | count digit groupings of a number1520 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/count-digit-groupings-of-a-number1520/1) | 29-05-26 |
 | 60 | replace with xor of adjacent | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/replace-with-xor-of-adjacent/1) | 30-05-26 |
+| 61 | consecutive numbers for sum3132 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/consecutive-numbers-for-sum3132/1) | 31-05-26 |
