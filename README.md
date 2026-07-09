@@ -10,3 +10,4 @@
 | 6 | Max Sum Path in Two Arrays | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/max-sum-path-in-two-arrays) | 06-07-26 |
 | 7 | Largest Unblocked Submatrix | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/largest-unblocked-submatrix) | 07-07-26 |
 | 8 | Towers Reaching Both Stations | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/geeks-island--170646) | 08-07-26 |
+| 9 | Count Pairs Divisible By K | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-pairs-in-array-divisible-by-k) | 09-07-26 |
