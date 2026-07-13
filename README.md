@@ -14,3 +14,4 @@
 | 10 | Ways to Express as Sum of Consecut... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-of-sum-of-consecutives3741) | 10-07-26 |
 | 11 | Longest Possible Route in a Matrix... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/longest-possible-route-in-a-matrix-with-hurdles) | 11-07-26 |
 | 12 | Max Amount by Selling K Tickets | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/ticket-sellers3241) | 12-07-26 |
+| 13 | Rearrange the Array | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/rearrange-the-array-1639032648) | 13-07-26 |
