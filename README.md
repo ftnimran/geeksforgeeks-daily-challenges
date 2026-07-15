@@ -16,3 +16,4 @@
 | 12 | Max Amount by Selling K Tickets | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/ticket-sellers3241) | 12-07-26 |
 | 13 | Rearrange the Array | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/rearrange-the-array-1639032648) | 13-07-26 |
 | 14 | Smallest Non-Zero Number | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-smallest-non-zero-number4510) | 14-07-26 |
+| 15 | Longest Bitonic Subarray | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/maximum-length-bitonic-subarray5730) | 15-07-26 |
