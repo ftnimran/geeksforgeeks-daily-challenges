@@ -18,3 +18,4 @@
 | 14 | Smallest Non-Zero Number | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-smallest-non-zero-number4510) | 14-07-26 |
 | 15 | Longest Bitonic Subarray | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/maximum-length-bitonic-subarray5730) | 15-07-26 |
 | 16 | Numbers with Given Digit Sum | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum0733) | 16-07-26 |
+| 17 | Max Absolute Diff of Two Subarrays | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/max-absolute-difference4114) | 17-07-26 |
