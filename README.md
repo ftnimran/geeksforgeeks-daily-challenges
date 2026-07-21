@@ -22,3 +22,4 @@
 | 18 | Cut Matrix | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/cut-matrix) | 18-07-26 |
 | 19 | Mountain Subarray Queries | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/mountain-subarray-problem) | 19-07-26 |
 | 20 | Shortest Unique Prefix for Every Word | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/shortest-unique-prefix-for-every-word) | 20-07-26 |
+| 21 | Maximum Reachable Index Difference | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-reachable-index-difference) | 21-07-26 |
