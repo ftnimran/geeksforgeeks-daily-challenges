@@ -24,3 +24,4 @@
 | 20 | Shortest Unique Prefix for Every Word | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/shortest-unique-prefix-for-every-word) | 20-07-26 |
 | 21 | Maximum Reachable Index Difference | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-reachable-index-difference) | 21-07-26 |
 | 22 | Minimum Deletions to Make Sorted | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-number-of-deletions-to-make-a-sorted-sequence3248) | 22-07-26 |
+| 23 | Check Preorder of BST | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/preorder-traversal-and-bst4006) | 23-07-26 |
