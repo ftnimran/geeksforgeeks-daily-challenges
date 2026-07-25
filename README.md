@@ -25,4 +25,5 @@
 | 21 | Maximum Reachable Index Difference | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-reachable-index-difference) | 21-07-26 |
 | 22 | Minimum Deletions to Make Sorted | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-number-of-deletions-to-make-a-sorted-sequence3248) | 22-07-26 |
 | 23 | Check Preorder of BST | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/preorder-traversal-and-bst4006) | 23-07-26 |
-| 24 | Longest Consecutive Path in Binary... | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/longest-consecutive-sequence-in-binary-tree) | 25-07-26 |
+| 24 | Longest Consecutive Path in Binary... | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/longest-consecutive-sequence-in-binary-tree) | 24-07-26 |
+| 25 | Max Sum Square Sub-Matrix of Size k | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/coins-of-geekland--141631) | 25-07-26 |
