@@ -28,3 +28,4 @@
 | 24 | Longest Consecutive Path in Binary... | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/longest-consecutive-sequence-in-binary-tree) | 24-07-26 |
 | 25 | Max Sum Square Sub-Matrix of Size k | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/coins-of-geekland--141631) | 25-07-26 |
 | 26 | Complete Binary Tree Traversal wit... | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/print-binary-tree-levels-in-sorted-order3241) | 26-07-26 |
+| 27 | Construct a Full Binary Tree | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/construct-a-full-binary-tree--170648) | 27-07-26 |
