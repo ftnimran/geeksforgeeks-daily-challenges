@@ -30,3 +30,4 @@
 | 26 | Complete Binary Tree Traversal wit... | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/print-binary-tree-levels-in-sorted-order3241) | 26-07-26 |
 | 27 | Construct a Full Binary Tree | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/construct-a-full-binary-tree--170648) | 27-07-26 |
 | 28 | Shortest Path in 1-2 Graph | Medium | JavaScript | Graph | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/graph/level-of-nodes1147) | 28-07-26 |
+| 29 | Split Array into Minimum Subsets | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/split-array-into-minimum-subsets) | 29-07-26 |
