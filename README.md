@@ -32,3 +32,4 @@
 | 28 | Shortest Path in 1-2 Graph | Medium | JavaScript | Graph | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/graph/level-of-nodes1147) | 28-07-26 |
 | 29 | Split Array into Minimum Subsets | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/split-array-into-minimum-subsets) | 29-07-26 |
 | 30 | Maximum Subset XOR | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-subset-xor) | 30-07-26 |
+| 31 | Subsets with Products of Distinct ... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/game-of-subsets) | 31-07-26 |
