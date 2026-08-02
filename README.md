@@ -34,3 +34,4 @@
 | 30 | Maximum Subset XOR | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-subset-xor) | 30-07-26 |
 | 31 | Subsets with Products of Distinct ... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/game-of-subsets) | 31-07-26 |
 | 32 | Max After m Range Increments | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/max-value-after-m-range-operation4300) | 01-08-26 |
+| 33 | Sequences where Adjacent Divide | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-in-array2138) | 02-08-26 |
