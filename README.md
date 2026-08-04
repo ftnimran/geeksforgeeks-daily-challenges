@@ -36,3 +36,4 @@
 | 32 | Max After m Range Increments | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/max-value-after-m-range-operation4300) | 01-08-26 |
 | 33 | Sequences where Adjacent Divide | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-in-array2138) | 02-08-26 |
 | 34 | Max Sum Subarray of Size at least K | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/largest-sum-subarray-of-size-at-least-k3121) | 03-08-26 |
+| 35 | Pairs with Less Than K Diff | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/pairs-with-difference-less-than-k1348) | 04-08-26 |
