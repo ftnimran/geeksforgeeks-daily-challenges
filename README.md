@@ -39,3 +39,4 @@
 | 35 | Pairs with Less Than K Diff | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/pairs-with-difference-less-than-k1348) | 04-08-26 |
 | 36 | Subarrays with Sum in Range | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/count-the-number-of-subarrays) | 05-08-26 |
 | 37 | Minimum Increment or Double Operat... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-steps-to-get-desired-array5519) | 06-08-26 |
+| 38 | Friends Pairing Problem | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/friends-pairing-problem5425) | 07-08-26 |
