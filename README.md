@@ -41,3 +41,4 @@
 | 37 | Minimum Increment or Double Operat... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-steps-to-get-desired-array5519) | 06-08-26 |
 | 38 | Friends Pairing Problem | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/friends-pairing-problem5425) | 07-08-26 |
 | 38 | Min Edge Movements to Connect a Graph | Medium | JavaScript | Graph | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/graph/connecting-the-graph) | 08-08-26 |
+| 39 | Largest Zigzag Sequence | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/largest-zigzag-sequence5416) | 09-08-26 |
