@@ -45,3 +45,4 @@
 | 40 | High Effort vs Low Effort | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/high-effort-vs-low-effort0213) | 10-08-26 |
 | 41 | Largest Odd Squares with Limited 1s | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries) | 11-08-26 |
 | 42 | Adventure in a Maze | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/adventure-in-a-maze2051) | 12-08-26 |
+| 43 | Longest Path in a Directed Acyclic... | Medium | JavaScript | Graph | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/graph/longest-path-in-a-directed-acyclic-graph) | 13-08-26 |
