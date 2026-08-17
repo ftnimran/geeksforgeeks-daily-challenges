@@ -49,3 +49,4 @@
 | 44 | Subset Sum on Generated Sequence | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/tricky-subset-problem1557) | 14-08-26 |
 | 45 | Numbers Without d as Digit | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-numbers2004) | 15-08-26 |
 | 46 | Min Product Subset | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/max-and-min-products3347) | 16-08-26 |
+| 47 | Snake and Ladder Problem | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/snake-and-ladder-problem4816) | 17-08-26 |
