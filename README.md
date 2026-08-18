@@ -50,3 +50,4 @@
 | 45 | Numbers Without d as Digit | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/count-numbers2004) | 15-08-26 |
 | 46 | Min Product Subset | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/max-and-min-products3347) | 16-08-26 |
 | 47 | Snake and Ladder Problem | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/snake-and-ladder-problem4816) | 17-08-26 |
+| 47 | Secret Cipher | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/secret-cipher--141631) | 18-08-26 |
