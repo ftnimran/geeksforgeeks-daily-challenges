@@ -52,3 +52,4 @@
 | 47 | Snake and Ladder Problem | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/snake-and-ladder-problem4816) | 17-08-26 |
 | 47 | Secret Cipher | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/secret-cipher--141631) | 18-08-26 |
 | 48 | Triplets with Sum in Range | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/triplets-with-sum-with-given-range) | 19-08-26 |
+| 49 | Node and Ancestor Max Diff | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-difference-between-node-and-its-ancestor) | 20-08-26 |
