@@ -54,3 +54,4 @@
 | 48 | Triplets with Sum in Range | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/triplets-with-sum-with-given-range) | 19-08-26 |
 | 49 | Node and Ancestor Max Diff | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-difference-between-node-and-its-ancestor) | 20-08-26 |
 | 50 | Transform String | Medium | JavaScript | String | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/string/transform-string5648) | 21-08-26 |
+| 51 | Number of Turns in Binary Tree | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/number-of-turns-in-binary-tree) | 22-08-26 |
