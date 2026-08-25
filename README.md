@@ -57,3 +57,4 @@
 | 51 | Number of Turns in Binary Tree | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/number-of-turns-in-binary-tree) | 22-08-26 |
 | 52 | Geek in a Maze | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/geek-in-a-maze--170637) | 23-08-26 |
 | 53 | Count Prefix-Balanced Binary Strings | Medium | JavaScript | String | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/string/geek-and-his-binary-strings1951) | 24-08-26 |
+| 54 | Minimum Moves to Sort Permutation | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/morning-assembly3038) | 25-08-26 |
