@@ -59,3 +59,4 @@
 | 53 | Count Prefix-Balanced Binary Strings | Medium | JavaScript | String | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/string/geek-and-his-binary-strings1951) | 24-08-26 |
 | 54 | Minimum Moves to Sort Permutation | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/morning-assembly3038) | 25-08-26 |
 | 55 | Negative Weight Cycle | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/negative-weight-cycle3504) | 26-08-26 |
+| 56 | Largest Rectangle with Column Swaps | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243) | 27-08-26 |
