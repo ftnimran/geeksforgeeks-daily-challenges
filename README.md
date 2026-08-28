@@ -60,3 +60,4 @@
 | 54 | Minimum Moves to Sort Permutation | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/morning-assembly3038) | 25-08-26 |
 | 55 | Negative Weight Cycle | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/negative-weight-cycle3504) | 26-08-26 |
 | 56 | Largest Rectangle with Column Swaps | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243) | 27-08-26 |
+| 57 | Minimum Cost Selection | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/buying-vegetables0016) | 28-08-26 |
