@@ -63,3 +63,4 @@
 | 57 | Minimum Cost Selection | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/buying-vegetables0016) | 28-08-26 |
 | 58 | Count Subsequences Divisible by n | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/number-of-subsequences-in-a-string-divisible-by-n5947) | 29-08-26 |
 | 59 | Marks from Ranks | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-marks-from-ranks) | 30-08-26 |
+| 60 | Minimum Cost for n Characters | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-time1238) | 31-08-26 |
