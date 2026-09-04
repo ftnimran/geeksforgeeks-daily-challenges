@@ -67,3 +67,4 @@
 | 61 | Count Palindromic Strings with Con... | Medium | JavaScript | String | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/string/number-of-palindromic-strings2706) | 01-09-26 |
 | 62 | Unoccupied Computers | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/unoccupied-computers-1646661078) | 02-09-26 |
 | 63 | Max Adjacent Diffs Sum with 1 Repl... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/modify-array-to-maximize-sum-of-adjacent-differences1729) | 03-09-26 |
+| 64 | Bird and Max Fruit Gathering | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/bird-and-maximum-fruit-gathering--170645) | 04-09-26 |
