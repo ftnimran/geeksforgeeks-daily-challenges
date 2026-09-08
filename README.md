@@ -71,3 +71,4 @@
 | 65 | Longest Subsequence with Adjacent ... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/longest-sub-sequence-such-that-difference-between-adjacents-is-one2558) | 05-09-26 |
 | 66 | Sum of Pairwise ANDs | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/sum-of-products5049) | 06-09-26 |
 | 67 | Minimum Elements Outside Subsequences | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617) | 07-09-26 |
+| 68 | Word in Grid - All Occurrences | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-the-string-in-grid0111) | 08-09-26 |
