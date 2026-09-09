@@ -72,3 +72,4 @@
 | 66 | Sum of Pairwise ANDs | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/sum-of-products5049) | 06-09-26 |
 | 67 | Minimum Elements Outside Subsequences | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617) | 07-09-26 |
 | 68 | Word in Grid - All Occurrences | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-the-string-in-grid0111) | 08-09-26 |
+| 69 | Max Digit Sum Number in 1 to n | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/biggest-integer-having-maximum-digit-sum1704) | 09-09-26 |
