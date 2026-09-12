@@ -75,3 +75,4 @@
 | 69 | Max Digit Sum Number in 1 to n | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/biggest-integer-having-maximum-digit-sum1704) | 09-09-26 |
 | 70 | Pairs with Given GCD and LCM | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/possible-pairs1550) | 10-09-26 |
 | 71 | Values with Equal Array Remainders | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/k-modulus-array-element0255) | 11-09-26 |
+| 72 | Max Product Subsequence of Size K | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-product4633) | 12-09-26 |
