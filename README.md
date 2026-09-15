@@ -78,3 +78,4 @@
 | 72 | Max Product Subsequence of Size K | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/maximum-product4633) | 12-09-26 |
 | 73 | Party in Town | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/party-in-town3951) | 13-09-26 |
 | 74 | Shortest Safe Route in Grid | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-shortest-safe-route-in-a-matrix) | 14-09-26 |
+| 75 | Visit Leaves with Budget | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/leaf-under-budget) | 15-09-26 |
