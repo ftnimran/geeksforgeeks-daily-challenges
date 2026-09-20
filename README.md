@@ -83,3 +83,4 @@
 | 77 | Min Edge Reversals for Path | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-edges) | 17-09-26 |
 | 78 | Minimum Absolute Difference In BST | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/minimum-absolute-difference-in-bst-1665139652) | 18-09-26 |
 | 79 | Min Cost To Make Two Strings Ident... | Medium | JavaScript | String | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/string/minimum-cost-to-make-two-strings-identical1107) | 19-09-26 |
+| 80 | Largest Subsquare Surrounded by X | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/largest-subsquare-surrounded-by-x0558) | 20-09-26 |
