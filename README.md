@@ -86,3 +86,4 @@
 | 80 | Largest Subsquare Surrounded by X | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/largest-subsquare-surrounded-by-x0558) | 20-09-26 |
 | 81 | Check Level Anagrams in Binary Trees | Medium | JavaScript | Tree | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/tree/check-if-all-levels-of-two-trees-are-anagrams-or-not) | 21-09-26 |
 | 82 | Longest Matching in Dictionary wit... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-largest-word-in-dictionary2430) | 22-09-26 |
+| 83 | Pyramid Array with Reduce Operations | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/pyramid-form3044) | 23-09-26 |
