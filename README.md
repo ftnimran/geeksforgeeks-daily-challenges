@@ -88,3 +88,4 @@
 | 82 | Longest Matching in Dictionary wit... | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/find-largest-word-in-dictionary2430) | 22-09-26 |
 | 83 | Pyramid Array with Reduce Operations | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/pyramid-form3044) | 23-09-26 |
 | 84 | Maximum Height Disc Stack | Medium | JavaScript | Stack | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/stack/stacking-up-discs1315) | 24-09-26 |
+| 85 | Box Stacking | Medium | JavaScript | Stack | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/stack/box-stacking) | 25-09-26 |
