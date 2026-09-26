@@ -89,3 +89,4 @@
 | 83 | Pyramid Array with Reduce Operations | Medium | JavaScript | Array | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/array/pyramid-form3044) | 23-09-26 |
 | 84 | Maximum Height Disc Stack | Medium | JavaScript | Stack | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/stack/stacking-up-discs1315) | 24-09-26 |
 | 85 | Box Stacking | Medium | JavaScript | Stack | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/stack/box-stacking) | 25-09-26 |
+| 86 | Minimum Cost Pizza Selection | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/pizza-mania0155) | 26-09-26 |
