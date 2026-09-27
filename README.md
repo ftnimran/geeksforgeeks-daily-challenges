@@ -91,3 +91,4 @@
 | 85 | Box Stacking | Medium | JavaScript | Stack | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/stack/box-stacking) | 25-09-26 |
 | 86 | Minimum Cost Pizza Selection | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/pizza-mania0155) | 26-09-26 |
 | 87 | Longest Colored Path | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/longest-colored-path--151454) | 28-09-26 |
+| 88 | Range GCD Queries | Medium | JavaScript | General | [Link](https://github.com/ftnimran/geeksforgeeks-daily-challenges/tree/main/Medium/general/range-gcd-queries3654) | 28-09-26 |
